@@ -6,7 +6,7 @@ public class library {
 	
 	String DB_URL ="jdbc:mysql://localhost:3306/library";
 	String USER ="root";
-	String PASSWORD ="Shahira@01";
+	String PASSWORD ="Enter your Password";
 	
 
     private Connection connection;

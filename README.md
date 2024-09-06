@@ -1,4 +1,4 @@
-A Java-based Library Management System that connects to a MySQL database to manage books, students, and book checkouts. This application supports adding new books, searching for books by author, displaying all available books, registering students, and checking out books.
+**A Java-based Library Management System that connects to a MySQL database to manage books, students, and book checkouts. This application supports adding new books, searching for books by author, displaying all available books, registering students, and checking out books.**
 
 ## Features
 
